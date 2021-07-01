@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.Principal.resources
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.Properties.Resources.resources
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\bin\Debug\Examen_Pablo.exe.config
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\bin\Debug\Examen_Pablo.exe
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\bin\Debug\Examen_Pablo.pdb
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\bin\Debug\MaterialSkin.dll
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.csproj.CopyComplete
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.exe
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.pdb
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.PrestamoTable.resources
+C:\Users\Pablo\source\repos\Examen_Pablo\Examen_Pablo\obj\Debug\Examen_Pablo.PrincipalMdi.resources
